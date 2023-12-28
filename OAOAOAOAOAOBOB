@@ -1,0 +1,38 @@
+[33mcommit 8ba0d81c22b56ea6ef88f9e4c6bc394982d896f7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: rutvik <rutvik@gmail.com>
+Date:   Thu Dec 28 16:27:29 2023 +0530
+
+    file deleted
+
+[33mcommit f23c63f520d6c6379937ec85700cbe9754ca043d[m
+Author: rutvik <rutvik@gmail.com>
+Date:   Thu Dec 28 16:26:59 2023 +0530
+
+    msg
+
+[33mcommit 074383312372d0e598519bbb5ef73e5488cf2910[m[33m ([m[1;33mtag: [m[1;33mv1[m[33m)[m
+Author: rutvik <rutvik@gmail.com>
+Date:   Thu Dec 28 14:36:35 2023 +0530
+
+    Revert "change in file product"
+    file currupted
+    
+    This reverts commit 522ab56cc5a3f7be556047fc72475d828964087a.
+
+[33mcommit 522ab56cc5a3f7be556047fc72475d828964087a[m
+Author: rutvik <rutvik@gmail.com>
+Date:   Wed Dec 27 19:26:48 2023 +0530
+
+    change in file product
+
+[33mcommit f5df9706b97c48bbea0c0701df6a55f0738d32fb[m
+Author: rutvik <rutvik@gmail.com>
+Date:   Wed Dec 27 19:18:54 2023 +0530
+
+    all
+
+[33mcommit 443c9e78785be1213dd7f320761674467e2aee1e[m
+Author: rutvik <rutvik@gmail.com>
+Date:   Wed Dec 27 19:17:42 2023 +0530
+
+    all file commited
